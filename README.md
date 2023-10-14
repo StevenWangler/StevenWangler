@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @StevenWangler
-- 👀 I’m interested in innovative technology
-- 🌱 I’m currently learning... a lot... My focus is around researching and developing innovative technology for my company. Things that are not proprietary that I come across while learning, I will try to post here :)
-- 📫 How to reach me: Email is best for me, you can reach out to my personal email at: Wangler.steven@outlook.com
+# Hey there! I'm Steven Wangler 👋
 
-<!---
-StevenWangler/StevenWangler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=StevenWangler.StevenWangler) (You can include a visitor badge if you'd like.)
+
+I'm a tech enthusiast deeply passionate about innovative technology. Whether it's groundbreaking advancements or small tweaks that make a world of difference, I'm all over it.
+
+## 🕵️‍♂️ About Me:
+
+- 🌍 I'm on a mission to research and develop cutting-edge tech solutions for my company. 
+- 📚 Always in learner mode! While I explore a wide array of topics, anything non-proprietary that I come across will find its way here.
+- 🛠 Tech Stack: (You can add badges or mention technologies/tools you're familiar with.)
+
+## 📬 Get in Touch:
+
+- Email: [Wangler.steven@outlook.com](mailto:Wangler.steven@outlook.com)
+- LinkedIn: [Steven Wangler](#) (You can add your LinkedIn profile link if you want.)
+- Twitter: [StevenWangler](#) (You can add your Twitter handle if you're active there.)
+
+---
+
+> _"Innovation is seeing what everybody has seen and thinking what nobody has thought."_ – Dr. Albert Szent-Gyorgyi
+
