@@ -1,6 +1,6 @@
 # Hey there! I'm Steven Wangler 👋
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=StevenWangler.StevenWangler) (You can include a visitor badge if you'd like.)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=StevenWangler.StevenWangler)
 
 I'm a tech enthusiast deeply passionate about innovative technology. Whether it's groundbreaking advancements or small tweaks that make a world of difference, I'm all over it.
 
