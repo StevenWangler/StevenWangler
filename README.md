@@ -1,6 +1,6 @@
 # Hey there! I'm Steven Wangler 👋
 
-I'm a tech enthusiast deeply passionate about innovative technology. Whether it's groundbreaking advancements or small tweaks that make a world of difference, I'm all over it.
+I'm a software engineer, professor and all around tech enthusiast who is deeply passionate about innovative technology. Whether it's groundbreaking advancements or small tweaks that make a world of difference, I'm all over it.
 
 ## 🕵️‍♂️ About Me:
 
