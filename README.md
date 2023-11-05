@@ -4,7 +4,7 @@ I'm a software engineer, professor and all around tech enthusiast who is deeply 
 
 ## 🕵️‍♂️ About Me:
 
-- 🌍 I'm on a mission to research and develop cutting-edge tech solutions for my company. 
+- 🌍 I'm on a mission to research and develop cutting-edge tech solutions. 
 - 📚 Always in learner mode! While I explore a wide array of topics, anything non-proprietary that I come across will find its way here.
 - 🛠 Tech Stack: 
   ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp)
